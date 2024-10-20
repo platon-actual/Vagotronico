@@ -47,8 +47,8 @@ byte packetBuffer[ NTP_PACKET_SIZE ];
 
 WiFiUDP udp;
 
-const char* ssid = "Berto";
-const char* password = "micabertateamo";
+const char* ssid = "wifi-ssid";
+const char* password = "password1";
 
 float temperatura;
 int temp_limite;
