@@ -1,4 +1,4 @@
-# Vagotronico: porque los informáticos, si podemos, le ponemos wifi.
+# Cosotrónico: porque los informáticos, si podemos, le ponemos wifi.
 ### Es un chiste.
 Es un proyecto para controlar dispositivos eléctricos por Wifi en una red local.
 Usa una placa Nodemcu LoLin V3 con ESP8266.
